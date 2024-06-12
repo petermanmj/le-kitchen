@@ -1,3 +1,4 @@
+
 # Kitchen Remodel Scope Statement
 As the homeowers we want to reorient and refresh the kitchen to achieve:
 * improved flow within the house
@@ -5,11 +6,11 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 * more effective pantry storage
 * and better utilization of dead space between the kitchen and deck
 
-## Goals
+# Goals
 * Renovate at an appropriate value level for the property (avoid over-improving)
 * Perpetuate the mid-century vibe of the house
 
-## Requirements
+# Requirements
 * larger fridge + more freezer space
 * larger sink
 * hood vented outside
