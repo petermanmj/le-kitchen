@@ -113,7 +113,7 @@ See DWG files
 ## Electrical
 * TBD
 
-# Appendix
+# Extra Construction Items to Consider / bid
 
 # Bifold door to deck
 It's not clear if this is in the budget. It would be a very nice addition. Expected work:
@@ -122,5 +122,12 @@ It's not clear if this is in the budget. It would be a very nice addition. Expec
 * replace and frame in new upper glass units
 * install new bifold door
 * Have upper glass film'd (to match current film on other upper windows)
+
+# Conceptual Images
+These views are from sketchup diagrams built from CADs (AutoCad LT DWG)
+
+## Overview
+
+
 
 
