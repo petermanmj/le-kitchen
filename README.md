@@ -127,7 +127,7 @@ It's not clear if this is in the budget. It would be a very nice addition. Expec
 These views are from sketchup diagrams built from CADs (AutoCad LT DWG)
 
 ## Overview
-
+![top view](assets/lek-top.png)
 
 
 
