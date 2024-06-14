@@ -129,5 +129,16 @@ These views are from sketchup diagrams built from CADs (AutoCad LT DWG)
 ## Overview
 ![top view](assets/lek-top.png)
 
+## Looking East
+![east view 1](assets/lek-east1.png)
+![east view 2](assets/lek-east2.png)
+
+## Looking North
+![north view](assets/lek-north.png)
+
+## looking South
+![east south 1](assets/lek-south1.png)
+![east south 2](assets/lek-south2.png)
+
 
 
