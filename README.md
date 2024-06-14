@@ -1,3 +1,4 @@
+![top view](assets/lek-top.png)
 
 # Kitchen Remodel Scope Statement
 As the homeowers we want to reorient and refresh the kitchen to achieve:
@@ -125,9 +126,6 @@ It's not clear if this is in the budget. It would be a very nice addition. Expec
 
 # Conceptual Images
 These views are from sketchup diagrams built from CADs (AutoCad LT DWG)
-
-## Overview
-![top view](assets/lek-top.png)
 
 ## Looking East
 ![east view 1](assets/lek-east1.png)
