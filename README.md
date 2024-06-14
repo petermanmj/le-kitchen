@@ -53,6 +53,7 @@ See DWG files
     - hood
     - outlets (probably 2 circuits)
     - lights
+  - extend 240v range plug to other side of ktichen
   - Inspection point with DCI
 * Plumbing
   - New supply lines to sink location
@@ -72,6 +73,7 @@ See DWG files
 * Prime + Paint new drywall
 * Install + sand + finish new flooring (is this the right order?)
 * Install floor/wall cabinets + appliances
+  - extend central-vacuum line to kickplate of cabinet
 * Install island cabinets
 * Fabricate & Install Countertops + backslpashes
 * Install plumbing fixtures
