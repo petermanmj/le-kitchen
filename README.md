@@ -101,6 +101,9 @@ See DWG files
 * Backsplash TBD
   * Tile
   * Solid Panel?
+* Inserts
+  * Knockbox Chute: https://rattleware.com/product/25102/
+  * Compost Chute
 
 ## Plumbing Fixtures
 * Kohler Prolific Sink (https://www.kohler.com/en/products/kitchen-sinks/shop-kitchen-sinks/prolific-33-undermount-single-bowl-workstation-kitchen-sink-5540?skuId=5540-NA)
