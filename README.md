@@ -17,6 +17,7 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 * hood vented outside
 * microwave
 * coffee area (espresso machine + grinder)
+* operable skylights to vent heat in summwr months 
 
 ## Nice To Have
 * Island
@@ -25,7 +26,7 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 
 # Project Execution
 ## Design
-See DWG files
+DWG files pending, see sketchups below
 
 ## Prework
 * Clear current kitchen area and cabinets of "stuff"
