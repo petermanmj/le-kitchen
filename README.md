@@ -55,11 +55,12 @@ DWG files pending, see sketchups below
     - outlets (probably 2 circuits)
     - lights
   - extend 240v range plug to other side of ktichen
+    * probably need new 8/3 cable from box since current likely 8/2
   - Inspection point with DCI
 * Plumbing
-  - New supply lines to sink location
+  - New supply lines to sink location (prefer PEX-a)
   - new drain path to sink location
-  - new vent from sink location up through roof
+  - new vent from sink location up through roof (only copper DWV above roofline)
   - new supply lines for behind fridge and pot filler
   - Inspection point with DCI
 * Install 2-3 velux solar roof windows VSS or similar
@@ -67,7 +68,7 @@ DWG files pending, see sketchups below
   - construct site-built curb if required at specified slope
     - weld PVC up curb sides
   - install counter flashing and roof window
-  - ref: https://www.veluxusa.com/products/skylights/solar-powered
+  - ref: [velux](https://www.veluxusa.com/products/skylights/solar-powered)
  
 ## Construction - finish
 * Drywall / tape / mud as needed to close walls
@@ -89,7 +90,7 @@ DWG files pending, see sketchups below
 * [Niche coffee grinder](https://www.nichecoffee.co.uk/products/niche-zero)
 ### new
 * 42" built-in fridge [cafe example](https://www.cafeappliances.com/appliance/Cafe-42-Smart-Built-In-Side-by-Side-Refrigerator-with-Dispenser-CSB42YP2NS1)
-* microwave drawer [sharp, or similar] (https://www.albertlee.biz/product/sharp-12-cu-ft-stainless-steel-microwave-drawer-smd2470asy-440554)
+* microwave drawer [sharp, or similar](https://www.albertlee.biz/product/sharp-12-cu-ft-stainless-steel-microwave-drawer-smd2470asy-440554)
 * Range Hood - still working on this one
 
 ## Flooring
@@ -117,8 +118,7 @@ DWG files pending, see sketchups below
 * Pot Filler (tbd) likely Moen
 
 ## Electrical
-* Legrand spec grade backwire outlets
-* 
+* white Legrand spec grade backwire outlets
 
 # Extra Construction Items to Consider / bid
 
