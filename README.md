@@ -94,8 +94,9 @@ DWG files pending, see sketchups below
 
 ## Flooring
 * Common #1 white oak (https://www.emersonhardwood.com/unfinishedflooring)
-  * Osmo Polyx Oil finish (or similar)
+  * Prefer hardwax oil - perhaps Osmo Polyx Oil or Rubio Monocoat
   * E-W orientation on main floor, N-S orientation on entry level
+  * 2.25x.75"
 
 ## Surfaces
 * Countertop TBD - choices include:
