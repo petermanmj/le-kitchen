@@ -83,26 +83,27 @@ DWG files pending, see sketchups below
 # Material Details
 ## Appliances
 ### current that will be kept
-* Cafe range (https://www.cafeappliances.com/appliance/Cafe-30-Smart-Slide-In-Front-Control-Induction-and-Convection-Double-Oven-Range-CHS950P2MS1)
-* Bosch Dishwasher (https://www.bosch-home.com/us/productslist/home-appliances/SHP865ZP5N)
-* Rocket espresso machine (https://www.rocket-espressousa.com/giotto-timer-evo-r-espresso-machine)
-* Niche coffee grinder (https://www.nichecoffee.co.uk/products/niche-zero)
+* [Cafe range](https://www.cafeappliances.com/appliance/Cafe-30-Smart-Slide-In-Front-Control-Induction-and-Convection-Double-Oven-Range-CHS950P2MS1)
+* [Bosch Dishwasher](https://www.bosch-home.com/us/productslist/home-appliances/SHP865ZP5N)
+* [Rocket espresso machine](https://www.rocket-espressousa.com/giotto-timer-evo-r-espresso-machine)
+* [Niche coffee grinder](https://www.nichecoffee.co.uk/products/niche-zero)
 ### new
-* 42" built-in fridge (https://www.cafeappliances.com/appliance/Cafe-42-Smart-Built-In-Side-by-Side-Refrigerator-with-Dispenser-CSB42YP2NS1)
-* microwave drawer (https://www.albertlee.biz/product/sharp-12-cu-ft-stainless-steel-microwave-drawer-smd2470asy-440554)
-* Range Hood - TBD
+* 42" built-in fridge [cafe example](https://www.cafeappliances.com/appliance/Cafe-42-Smart-Built-In-Side-by-Side-Refrigerator-with-Dispenser-CSB42YP2NS1)
+* microwave drawer [sharp, or similar] (https://www.albertlee.biz/product/sharp-12-cu-ft-stainless-steel-microwave-drawer-smd2470asy-440554)
+* Range Hood - still working on this one
 
 ## Flooring
-* Common #1 white oak (https://www.emersonhardwood.com/unfinishedflooring)
-  * Prefer hardwax oil - perhaps Osmo Polyx Oil or Rubio Monocoat
+* [Common #1 white oak](https://www.emersonhardwood.com/unfinishedflooring)
+  * Hardwax oil finish -  Osmo Polyx Oil, Rubio Monocoat, Natura
   * E-W orientation on main floor, N-S orientation on entry level
   * 2.25x.75"
+  * standard underlayment
 
 ## Surfaces
 * Countertop TBD - choices include:
   * paperstone
   * quartz
-  * wood block (http://www.crosscuthardwoods.com/walnut-countertops.html)
+  * possibly for island: [wood block](http://www.crosscuthardwoods.com/walnut-countertops.html)
 * Backsplash TBD
   * Tile
   * Solid Panel?
@@ -111,12 +112,13 @@ DWG files pending, see sketchups below
   * Compost Chute
 
 ## Plumbing Fixtures
-* Kohler Prolific Sink (https://www.kohler.com/en/products/kitchen-sinks/shop-kitchen-sinks/prolific-33-undermount-single-bowl-workstation-kitchen-sink-5540?skuId=5540-NA)
-* Faucet (tbd)
-* Pot Filler (tbd)
+* [Kohler Prolific Sink](https://www.kohler.com/en/products/kitchen-sinks/shop-kitchen-sinks/prolific-33-undermount-single-bowl-workstation-kitchen-sink-5540?skuId=5540-NA)
+* Faucet (tbd) likely Moen
+* Pot Filler (tbd) likely Moen
 
 ## Electrical
-* TBD
+* Legrand spec grade backwire outlets
+* 
 
 # Extra Construction Items to Consider / bid
 
