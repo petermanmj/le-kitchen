@@ -24,7 +24,7 @@ Option 1 trims the current beam on top of the post and butts a new extension bea
 ![op1](assets/beam%20detail%20op1.png)
 
 ## Option 3
-Option 3 uses the excess current beam length to create a half-lap connection with a nex extension beam. This may simplify construction by leaving the current loads undisturbed at the expense of a mildly more complex joint.
+Option 3 uses the excess current beam length to create a half-lap connection with a new extension beam. This may simplify construction by leaving the current loads undisturbed but comes with a more complex joint.
 
 ### Structural Construction Steps
 
