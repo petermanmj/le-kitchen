@@ -38,6 +38,10 @@ Option 3 uses the excess current beam length to create a half-lap connection wit
 * "tetris" in new extension beam and secure with countersunk structural screws
 * Install metal strap across span-beam, post, extension-beam - possibly [APVST](https://www.strongtie.com/avantcollection_outdooraccents/apvst_strap/p/apvst)
 
+### Diagram
+
+![op1](assets/beam%20detail%20op3.png)
+
 ----
 
 # Pass Through
@@ -51,6 +55,3 @@ non-orthogonal projection of the beam, post and plumbing vent known to be in tha
 ![pass-thru beam](assets/pass-thru-beam.png)
 
 
-### Diagram
-
-![op1](assets/beam%20detail%20op3.png)
