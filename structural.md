@@ -19,7 +19,7 @@ Option 1 trims the current beam on top of the post and butts a new extension bea
 * Butt new extension beam against current span beam and secure in place
 * Install metal strap across span-beam, post, extension-beam - possibly [APVST](https://www.strongtie.com/avantcollection_outdooraccents/apvst_strap/p/apvst)
 
-### Diagram
+### Diagram (option 1)
 
 ![op1](assets/beam%20detail%20op1.png)
 
@@ -35,7 +35,7 @@ Option 3 uses the excess current beam length to create a half-lap connection wit
 * "tetris" in new extension beam and secure with countersunk structural screws
 * Install metal strap across span-beam, post, extension-beam - possibly [APVST](https://www.strongtie.com/avantcollection_outdooraccents/apvst_strap/p/apvst)
 
-### Diagram
+### Diagram (option 3)
 
 ![op1](assets/beam%20detail%20op3.png)
 
