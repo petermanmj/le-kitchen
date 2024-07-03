@@ -9,13 +9,12 @@ Multiple options exist for opening the space between the ceiling beams currently
 ## Option 1
 Option 1 trims the current beam on top of the post and butts a new extension beam on top of the post. It's unclear if this work can be done without installing temporary supports to hold up current loads.
 
-### Construction Steps
+### Structural Construction Steps
 
 * Demo subject area to enable new framing
 * erect 2 temporary "jacks" to hold up N-S ceiling beams on both sides of the E-W span beam
 * erect temporary "jack" to hold the E-W span-beam
-* Slice E-W span beam vertically between notched-in top-plate and top of post
-* Remove West end of current span beam (cut nails to enable removal)
+* Slice E-W span beam vertically between notched-in top-plate and top of post & remove West portion
 * Install jack stud to support West side of new extension beam
 * Butt new extension beam against current span beam and secure in place
 * Install metal strap across span-beam, post, extension-beam - possibly [APVST](https://www.strongtie.com/avantcollection_outdooraccents/apvst_strap/p/apvst)
@@ -24,15 +23,13 @@ Option 1 trims the current beam on top of the post and butts a new extension bea
 
 ![op1](assets/beam%20detail%20op1.png)
 
-
 ## Option 3
 Option 3 uses the excess current beam length to create a half-lap connection with a nex extension beam. This may simplify construction by leaving the current loads undisturbed at the expense of a mildly more complex joint.
 
-### Construction Steps
+### Structural Construction Steps
 
 * Demo subject area to enable new framing
-* Half-Lap cut E-W span-beam West of post support
-* Remove half-lap cutout from span-beam (cut nails as required)
+* Half-Lap cut E-W span-beam West of post support and remove West portion
 * Install jack stud to support West side of new extension beam
 * Half-lap cut new extension beam
 * "tetris" in new extension beam and secure with countersunk structural screws
