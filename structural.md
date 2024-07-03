@@ -21,4 +21,4 @@ Multiple options exist for opening the space between the ceiling beams currently
 
 
 ## Option 3
-![op1](assets/beam detail op3.png)
+![op1](assets/beam%20detail%20op3.png)
