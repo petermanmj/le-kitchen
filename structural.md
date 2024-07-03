@@ -7,7 +7,7 @@ This is the detail of the connection between the beam entering the house from th
 Multiple options exist for opening the space between the ceiling beams currently supported by the wall displayed here. In either case the goal is to "extend" the current beam line another approx 4' to the next ceiling beam to the West. Since the beams are painted seams can be filled / sanded / painted and will largely disappear. The connection at the top of the post probably needs metal either way - that is excluded from drawings below.
 
 ## Option 1
-Option 1 trims the current beam on top of the post and butts a new extension beam on top of the post. It's unclear if this work can be done without installing temporary supports to hold up current loads.
+Option 1 trims the current beam on top of the post and butts a new extension beam on top of the post. It is likely temporary supports are required to hold up current loads during construction.
 
 ### Structural Construction Steps
 
