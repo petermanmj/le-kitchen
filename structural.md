@@ -1,14 +1,4 @@
-As requested, these are structural photos for the as-built framing.
-
-# Pass Through
-We want to increase the height of the pass through between the current kitchen and West dining room.
-
-non-orthogonal projection of the beam, post and plumbing vent known to be in that wall:
-![pass-thru](assets/pass-thru.png)
-
-## Evidence views
-![pass-thru beam and post](assets/pass-thru-beam_post_.png)
-![pass-thru beam](assets/pass-thru-beam.png)
+Structural photos for the as-built framing
 
 # East Beam Connection
 This is the detail of the connection between the beam entering the house from the East and landing on the kitchen North wall:
@@ -47,6 +37,19 @@ Option 3 uses the excess current beam length to create a half-lap connection wit
 * Half-lap cut new extension beam
 * "tetris" in new extension beam and secure with countersunk structural screws
 * Install metal strap across span-beam, post, extension-beam - possibly [APVST](https://www.strongtie.com/avantcollection_outdooraccents/apvst_strap/p/apvst)
+
+----
+
+# Pass Through
+We want to increase the height of the pass through between the current kitchen and West dining room.
+
+non-orthogonal projection of the beam, post and plumbing vent known to be in that wall:
+![pass-thru](assets/pass-thru.png)
+
+## Evidence views
+![pass-thru beam and post](assets/pass-thru-beam_post_.png)
+![pass-thru beam](assets/pass-thru-beam.png)
+
 
 ### Diagram
 
