@@ -17,7 +17,7 @@ This is the detail of the connection between the beam entering the house from th
 Multiple options exist for opening the space between the ceiling beams currently supported by the wall displayed here.
 
 ## Option 1
-![op1](assets/beam detail op1.png)
+![op1](assets/beam%20detail%20op1.png)
 
 
 ## Option 3
