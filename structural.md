@@ -13,3 +13,12 @@ non-orthogonal projection of the beam, post and plumbing vent known to be in tha
 # East Beam Connection
 This is the detail of the connection between the beam entering the house from the East and landing on the kitchen North wall:
 ![east-beam](assets/post-and-beam.png)
+
+Multiple options exist for opening the space between the ceiling beams currently supported by the wall displayed here.
+
+## Option 1
+![op1](assets/beam detail op1.png)
+
+
+## Option 3
+![op1](assets/beam detail op3.png)
