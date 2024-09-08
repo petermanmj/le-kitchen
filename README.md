@@ -1,44 +1,21 @@
 ![top view](assets/lek-top.png)
 
-* [Kitchen Remodel Scope Statement](#kitchen-remodel-scope-statement)
-* [Goals](#goals)
-* [Requirements](#requirements)
-   * [Nice To Have](#nice-to-have)
-* [Project Execution](#project-execution)
-   * [Design](#design)
-   * [Prework](#prework)
-   * [Demo](#demo)
-   * [Construction - alterations](#construction---alterations)
-   * [Construction - finish](#construction---finish)
-* [Material Details](#material-details)
-   * [Appliances](#appliances)
-      * [current that will be kept](#current-that-will-be-kept)
-      * [new](#new)
-   * [Flooring](#flooring)
-   * [Surfaces](#surfaces)
-   * [Plumbing Fixtures](#plumbing-fixtures)
-   * [Electrical](#electrical)
-* [Extra Construction Items to Consider / bid](#extra-construction-items-to-consider--bid)
-* [Bifold door to deck](#bifold-door-to-deck)
-* [Conceptual Images](#conceptual-images)
-   * [Looking East](#looking-east)
-   * [Looking North](#looking-north)
-   * [looking South](#looking-south)
-
-<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-
-# Kitchen Remodel Scope Statement
+# Kitchen Remodel Overview
+<details>
+  <summary>Expand the overview...</summary>
+  
+## Scope
 As the homeowers we want to reorient and refresh the kitchen to achieve:
 * improved flow within the house
 * increased work area in the kitchen
 * more effective pantry storage
 * and better utilization of dead space between the kitchen and deck
 
-# Goals
+## Goals
 * Renovate at an appropriate value level for the property (avoid over-improving)
 * Perpetuate the mid-century vibe of the house
 
-# Requirements
+## Requirements
 * larger fridge + more freezer space
 * larger sink
 * hood vented outside
@@ -51,16 +28,18 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 * View from the kitchen
 * larger doors to deck (bridge outside / inside)
 
+</details>
+
 # Project Execution
 ## Design
-DWG files pending, see sketchups below
+Permit and approved plan set are available on site, see sketchups below for conceptual plans.
 
 ## Prework
 * Clear current kitchen area and cabinets of "stuff"
   - setup temporary means of making food
-* Ramboard over any flooring that needs protected
-* Isolate demo area with plastic sheeting
-* relocate and remove appliances to be kept
+* ~Ramboard over any flooring that needs protected~ flooring will be replaced.
+* Isolate demo area with plastic sheeting leading to deck
+* centrally locate appliances to be kept to enable demo/electrical/plumbing/framing/flooring
 * order dumpster for placement in driveway
 
 ## Demo
@@ -68,7 +47,6 @@ DWG files pending, see sketchups below
 * Remove existing countertops + cabinets Fixtures
 * Remove drywall to expose work area for electrical and plumbing needs
 * Remove finished floor (vinyl + parquet wood) to subfloor in defined area
-  - this is up for negotiation but I expect the main floor and entry flooring to be replaced
 * Remove drywall + panelling on shared kitchen / dining wall
 * Remove drywall between kitchen and living room wall
 
@@ -88,11 +66,11 @@ DWG files pending, see sketchups below
   - New supply lines to sink location (prefer PEX-a)
   - new drain path to sink location
   - new vent from sink location up through roof (only copper DWV above roofline)
-  - new supply lines for behind fridge and pot filler
+  - new supply lines for behind fridge and pot filler (existing stub in S wall)
   - Inspection point with DCI
 * Install 2-3 velux solar roof windows VSS or similar
   - Coutout roof at install locations
-  - construct site-built curb if required at specified slope
+  - construct site-built curb to meet required slope for VSS
     - weld PVC up curb sides
   - install counter flashing and roof window
   - ref: [velux](https://www.veluxusa.com/products/skylights/solar-powered)
@@ -101,14 +79,14 @@ DWG files pending, see sketchups below
 * Drywall / tape / mud as needed to close walls
 * Prime + Paint new drywall
 * Install + sand + finish new flooring (is this the right order?)
-* Install floor/wall cabinets + appliances
+* Install lower/upper cabinets + appliances
   - extend central-vacuum line to kickplate of cabinet
 * Install island cabinets
 * Fabricate & Install Countertops + backslpashes
 * Install plumbing fixtures
-* fill recepticle / switch boxes
+* fill recepticle / switch boxes / plugmolds
   
-# Material Details
+# Material Specifics
 ## Appliances
 ### current that will be kept
 * [Cafe range](https://www.cafeappliances.com/appliance/Cafe-30-Smart-Slide-In-Front-Control-Induction-and-Convection-Double-Oven-Range-CHS950P2MS1)
@@ -137,11 +115,11 @@ DWG files pending, see sketchups below
   * Solid Panel?
 * Inserts
   * Knockbox Chute: https://rattleware.com/product/25102/
-  * Compost Chute
+  * Compost Chute behind sink
 
 ## Plumbing Fixtures
 * [Kohler Prolific Sink](https://www.kohler.com/en/products/kitchen-sinks/shop-kitchen-sinks/prolific-33-undermount-single-bowl-workstation-kitchen-sink-5540?skuId=5540-NA)
-* Faucet (tbd) likely Moen
+* Faucet current American Standard motion faucet
 * Pot Filler (tbd) likely Moen
 
 ## Electrical
@@ -150,7 +128,7 @@ DWG files pending, see sketchups below
 # Extra Construction Items to Consider / bid
 
 # Bifold door to deck
-It's not clear if this is in the budget. It would be a very nice addition. Expected work:
+It's not clear if this is in the budget. It would be a nice addition. Expected work:
 * Remove current door/windows to ~120in wide opening
 * build new header across opening
 * replace and frame in new upper glass units
