@@ -3,7 +3,7 @@
 # Kitchen Remodel Overview
 <details>
   <summary>Expand the overview...</summary>
-  
+
 ## Scope
 As the homeowers we want to reorient and refresh the kitchen to achieve:
 * improved flow within the house
@@ -29,6 +29,17 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 * larger doors to deck (bridge outside / inside)
 
 </details>
+
+# Work Breakdown
+| Work Step | Executed By | Planned Start |
+| --- | --- | --- |
+| Kitchen Empty | M&M | Week 0 |
+| Wall Demo | M&M | Week 1 |
+| Cabinet, countertop demo | M&M | Week 1 |
+| Floor Demo | M&M | Week 1 |
+| Setup Temp Kitchen | M&M | Week 0-1 |
+| reframe for new layout | SMB | Week 1-2 |
+
 
 # Project Execution
 ## Design
