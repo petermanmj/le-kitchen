@@ -1,5 +1,32 @@
 ![top view](assets/lek-top.png)
 
+Table of Contents
+=================
+
+* [Kitchen Remodel Overview](#kitchen-remodel-overview)
+* [Work Breakdown](#work-breakdown)
+* [Project Execution](#project-execution)
+   * [Design](#design)
+   * [Prework](#prework)
+   * [Demo](#demo)
+   * [Construction - alterations](#construction---alterations)
+   * [Construction - finish](#construction---finish)
+* [Material Specifics](#material-specifics)
+   * [Appliances](#appliances)
+      * [current that will be kept](#current-that-will-be-kept)
+      * [new](#new)
+   * [Flooring](#flooring)
+   * [Surfaces](#surfaces)
+   * [Plumbing Fixtures](#plumbing-fixtures)
+   * [Electrical](#electrical)
+* [Extra Construction Items to Consider / bid](#extra-construction-items-to-consider--bid)
+* [Bifold door to deck](#bifold-door-to-deck)
+* [Conceptual Images](#conceptual-images)
+   * [Looking East](#looking-east)
+   * [Looking North](#looking-north)
+   * [looking South](#looking-south)
+
+
 # Kitchen Remodel Overview
 <details>
   <summary>Expand the overview...</summary>
