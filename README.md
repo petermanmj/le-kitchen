@@ -73,23 +73,23 @@ As the homeowers we want to reorient and refresh the kitchen to achieve:
 Permit and approved plan set are available on site, see sketchups below for conceptual plans.
 
 ## Prework
-* Clear current kitchen area and cabinets of "stuff"
-  - setup temporary means of making food
+* ~Clear current kitchen area and cabinets of "stuff"~
+  - ~setup temporary means of making food~
 * ~Ramboard over any flooring that needs protected~ flooring will be replaced.
-* Isolate demo area with plastic sheeting leading to deck
-* centrally locate appliances to be kept to enable demo/electrical/plumbing/framing/flooring
-* order dumpster for placement in driveway
+* ~Isolate demo area with plastic sheeting leading to deck~
+* ~centrally locate appliances to be kept to enable demo/electrical/plumbing/framing/flooring~
+* ~order dumpster for placement in driveway~
 
 ## Demo
 * Disconnect plumbing / electrical
-* Remove existing countertops + cabinets Fixtures
-* Remove drywall to expose work area for electrical and plumbing needs
+* ~Remove existing countertops + cabinets Fixtures~
+* ~Remove drywall to expose work area for electrical and plumbing needs~
 * Remove finished floor (vinyl + parquet wood) to subfloor in defined area
-* Remove drywall + panelling on shared kitchen / dining wall
-* Remove drywall between kitchen and living room wall
+* ~Remove drywall + panelling on shared kitchen / dining wall~
+* ~Remove drywall between kitchen and living room wall~
 
 ## Construction - alterations
-* raise header between kitchen / dining
+* ~raise header between kitchen / dining~
 * reframe for opening between kitchen / living with post at East end
 * Electrical
   - pull new circuits from panel
@@ -101,9 +101,9 @@ Permit and approved plan set are available on site, see sketchups below for conc
     * probably need new 8/3 cable from box since current likely 8/2
   - Inspection point with DCI
 * Plumbing
-  - New supply lines to sink location (prefer PEX-a)
-  - new drain path to sink location
-  - new vent from sink location up through roof (only copper DWV above roofline)
+  - ~New Sink supply lines to sink location (prefer PEX-a)~
+  - ~new drain path to sink location~
+  - ~new vent from sink location up through roof (only copper DWV above roofline)~ - Sub AAV
   - new supply lines for behind fridge and pot filler (existing stub in S wall)
   - Inspection point with DCI
 * Install 2-3 velux solar roof windows VSS or similar
