@@ -132,9 +132,9 @@ Permit and approved plan set are available on site, see sketchups below for conc
 * [Rocket espresso machine](https://www.rocket-espressousa.com/giotto-timer-evo-r-espresso-machine)
 * [Niche coffee grinder](https://www.nichecoffee.co.uk/products/niche-zero)
 ### new
-* 42" built-in fridge [cafe example](https://www.cafeappliances.com/appliance/Cafe-42-Smart-Built-In-Side-by-Side-Refrigerator-with-Dispenser-CSB42YP2NS1)
-* microwave drawer [sharp, or similar](https://www.albertlee.biz/product/sharp-12-cu-ft-stainless-steel-microwave-drawer-smd2470asy-440554)
-* Range Hood - still working on this one
+* 42" built-in fridge *Ordered:* [Dacor 42"](https://image-us.samsung.com/SamsungUS/dacor/products/refrigeration/side-by-side-refrigeration/drs425300sr/download/Dacor42Side-By-SideRefrigeratorSpecSheet-DRS425300SR_DA_w-Disclaimer.pdf)
+* microwave drawer *Ordered:* [Zephyr 24"](http://docs.zephyronline.com/docs/specs/MWDxx01AS_spec.pdf)
+* Range Hood - *Ordered:* [Faber Inca in-light 35"](https://www.faberonline.com/wp-content/uploads/2018/04/Inca-In-Light_Insert_2022-Spec_Rev4-1022.pdf)
 
 ## Flooring
 * [Common #1 white oak](https://www.emersonhardwood.com/unfinishedflooring)
