@@ -137,11 +137,12 @@ Permit and approved plan set are available on site, see sketchups below for conc
 * Range Hood - *Ordered:* [Faber Inca in-light 35"](https://www.faberonline.com/wp-content/uploads/2018/04/Inca-In-Light_Insert_2022-Spec_Rev4-1022.pdf)
 
 ## Flooring
-* [Common #1 white oak](https://www.emersonhardwood.com/unfinishedflooring)
-  * Hardwax oil finish -  Osmo Polyx Oil, Rubio Monocoat, Natura
-  * E-W orientation on main floor, N-S orientation on entry level
-  * 2.25x.75"
-  * standard underlayment
+* Prima Floors Regency Collection European White Oak Engineered flooring
+  * Nail down
+  * Color: GW339/New Castle
+  * 7.48" wide
+  * 
+  * 
 
 ## Surfaces
 * Countertop TBD - choices include:
