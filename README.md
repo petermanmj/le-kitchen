@@ -137,7 +137,7 @@ Permit and approved plan set are available on site, see sketchups below for conc
 * Range Hood - *Ordered:* [Faber Inca in-light 35"](https://www.faberonline.com/wp-content/uploads/2018/04/Inca-In-Light_Insert_2022-Spec_Rev4-1022.pdf)
 
 ## Flooring
-* Prima Floors Regency Collection European White Oak Engineered flooring
+* [Prima Floors Regency Collection European White Oak Engineered flooring](https://www.primafloors.com/pdt_1/id-32.html)
   * Nail down
   * Color: GW339/New Castle
   * 7.48" wide
