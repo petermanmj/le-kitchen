@@ -2,7 +2,7 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 
 # Punchlist
 
-1. coffee niche side walls (pre-tile)
+01. coffee niche side walls (pre-tile)
 1. appliance-area electrical relocation for plugmold (pre-tile)
 1. tile backsplash
 1. glass door remakes
@@ -14,8 +14,8 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 1. hood tube
 1. light channel for island
 1. electrical trimout
-1.1. plugmolds
-1.1. outlets & Switches
+  1. plugmolds
+  1. outlets & Switches
 
 # M&M List
 
