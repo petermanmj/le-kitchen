@@ -11,7 +11,7 @@
 1. hood tube
 1. light channel for island
 1. electrical trimout
-1. appliance-area romex relocation
+1. appliance-area electrical relocation for plugmold
 
 
 # M&M List
