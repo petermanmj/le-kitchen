@@ -1,3 +1,5 @@
+# Punchlist
+
 1. bookshelf kickplate
 1. tile backsplash
 1. glass door remakes
@@ -12,8 +14,8 @@
 1. appliance-area romex relocation
 
 
+# M&M List
+
 1. prime + paint
 1. ~solder tape lights~
 1. ~relocate cold water stub~
-
-1. 
