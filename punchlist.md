@@ -20,4 +20,4 @@
 1. ~solder tape lights~
 1. ~relocate cold water stub~
 1. espresso supply
-1. espresso drain
+1. espresso drain (hard stand pipe)
