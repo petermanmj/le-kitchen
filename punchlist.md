@@ -20,7 +20,7 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 
 # M&M List
 
-- [ ] prime + paint
+- [ ] paint
 - [x] solder undercabinet tape lights
 - [x] relocate cold water stub
 - [ ] espresso supply (after sink-cabinet-back)
