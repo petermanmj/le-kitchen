@@ -2,25 +2,27 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 
 # Punchlist
 
-- [ ] coffee niche side walls (pre-tile)
-- [ ] appliance-area electrical relocation for plugmold (pre-tile)
-- [ ] tile backsplash
+- [x] coffee niche side walls (pre-tile)
+- [x] appliance-area electrical relocation for plugmold (pre-tile)
+- [x] tile backsplash
 - [ ] glass door remakes
-- [ ] rub-out cabinet door scratches
+- [ ] rub-out any last cabinet door scratches
 - [ ] drywall sand/finish, ready for primer
-- [ ] 3 missing drawers (trash, knife, island)
-- [ ] bookshelf kickplate
+- [ ] missing drawers (trash, knife, island)
+- [ ] cover screws on bottom of cabinet over sink-shelf
+- [x] bookshelf kickplate
 - [ ] sink cabinet back
 - [ ] hood tube
 - [ ] light channel for island
-- [ ] electrical trimout
+- [x] electrical trimout
   - plugmolds
-  - outlets & Switches
+  - Receptacle Outlets & Switches
 
 # M&M List
 
 - [ ] prime + paint
-- [x] solder tape lights
+- [x] solder undercabinet tape lights
 - [x] relocate cold water stub
 - [ ] espresso supply (after sink-cabinet-back)
-- [ ] espresso drain (hard stand pipe + gap)
+- [ ] espresso drain (hard stand pipe (with 1" drip gap)
+- [ ] water leak detectors
