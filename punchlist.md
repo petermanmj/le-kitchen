@@ -7,7 +7,7 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 - [x] tile backsplash
 - [ ] glass door remakes
 - [ ] rub-out any last cabinet door scratches
-- [ ] drywall sand/finish, ready for primer
+- [ ] drywall sand/finish, ready for paint (90% done)
 - [ ] missing drawers (trash, knife, island)
 - [ ] cover screws on bottom of cabinet over sink-shelf
 - [x] bookshelf kickplate
