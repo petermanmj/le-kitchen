@@ -2,6 +2,11 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 
 # Punchlist
 
+- [ ] cover screws on bottom of cabinet over sink-shelf
+- [ ] sink cabinet back
+- [ ] light channel for island
+
+
 - [x] coffee niche side walls (pre-tile)
 - [x] appliance-area electrical relocation for plugmold (pre-tile)
 - [x] tile backsplash
@@ -9,11 +14,8 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 - [x] rub-out any last cabinet door scratches
 - [x] drywall sand/finish, ready for paint (90% done)
 - [x] missing drawers (trash, knife, island)
-- [ ] cover screws on bottom of cabinet over sink-shelf
 - [x] bookshelf kickplate
-- [ ] sink cabinet back
 - [x] hood tube
-- [ ] light channel for island
 - [x] electrical trimout
   - plugmolds
   - Receptacle Outlets & Switches
@@ -23,8 +25,10 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 
 - [ ] paint
 - [ ] pot filler
-- [x] solder undercabinet tape lights
-- [x] relocate cold water stub
 - [ ] espresso supply (after sink-cabinet-back)
 - [ ] espresso drain (hard stand pipe (with 1" drip gap)
 - [ ] water leak detectors
+
+
+- [x] solder undercabinet tape lights
+- [x] relocate cold water stub
