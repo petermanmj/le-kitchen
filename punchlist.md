@@ -5,10 +5,10 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 - [x] coffee niche side walls (pre-tile)
 - [x] appliance-area electrical relocation for plugmold (pre-tile)
 - [x] tile backsplash
-- [ ] glass door remakes
-- [ ] rub-out any last cabinet door scratches
+- [x] glass door remakes
+- [x] rub-out any last cabinet door scratches
 - [x] drywall sand/finish, ready for paint (90% done)
-- [ ] missing drawers (trash, knife, island)
+- [x] missing drawers (trash, knife, island)
 - [ ] cover screws on bottom of cabinet over sink-shelf
 - [x] bookshelf kickplate
 - [ ] sink cabinet back
@@ -22,6 +22,7 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # M&M List
 
 - [ ] paint
+- [ ] pot filler
 - [x] solder undercabinet tape lights
 - [x] relocate cold water stub
 - [ ] espresso supply (after sink-cabinet-back)
