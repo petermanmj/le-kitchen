@@ -3,10 +3,9 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # Punchlist
 
 - [ ] cover screws on bottom of cabinet over sink-shelf
-- [ ] sink cabinet back
-- [ ] light channel for island
+- [ ] light channel for island - M&M
 
-
+- [x] sink cabinet back
 - [x] coffee niche side walls (pre-tile)
 - [x] appliance-area electrical relocation for plugmold (pre-tile)
 - [x] tile backsplash
