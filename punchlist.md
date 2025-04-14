@@ -3,6 +3,7 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # Punchlist
 
 - [ ] cover screws on bottom of cabinet over sink-shelf
+- [ ] stainless duck cover
 - [ ] light channel for island - M&M
 
 - [x] sink cabinet back
