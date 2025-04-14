@@ -24,11 +24,11 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # M&M List
 
 - [ ] paint
-- [ ] espresso supply (after sink-cabinet-back)
 - [ ] water leak detectors
 - [ ] islad light cord cleanup
 
 
+- [x] espresso supply (after sink-cabinet-back)
 - [x] espresso drain (hard stand pipe (with 1" drip gap)
 - [x] pot filler
 - [x] solder undercabinet tape lights
