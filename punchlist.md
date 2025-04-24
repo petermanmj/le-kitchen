@@ -3,9 +3,9 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # Punchlist
 
 - [ ] cover screws on bottom of cabinet over sink-shelf
-- [ ] stainless duck cover
-- [ ] light channel for island - M&M
 
+- [x] stainless duck cover
+- [x] light channel for island - M&M
 - [x] sink cabinet back
 - [x] coffee niche side walls (pre-tile)
 - [x] appliance-area electrical relocation for plugmold (pre-tile)
@@ -24,10 +24,9 @@ Remaining items for LE-Kitchen reno, some items are distinctly for M&M to handle
 # M&M List
 
 - [ ] paint
-- [ ] water leak detectors
-- [ ] islad light cord cleanup
+- [ ] island light cord cleanup
 
-
+- [x] water leak detectors
 - [x] espresso supply (after sink-cabinet-back)
 - [x] espresso drain (hard stand pipe (with 1" drip gap)
 - [x] pot filler
